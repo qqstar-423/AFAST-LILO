@@ -1,7 +1,5 @@
 # AFAST-LILO
 
-Official repository for the paper:
-
 **AFAST-LILO: An Adaptive Tightly Integrated LiDAR-IMU-Leg Odometry System for SLAM in Underground Cable Tunnels**
 
 ## Status
@@ -38,8 +36,8 @@ For questions regarding this work, please contact:
 ## Citation
 
 ```bibtex
-@article{to_be_added,
-  title={AFAST-LILO: Tightly-Coupled LiDAR-IMU-Leg Odometry Localization for Cable Tunnel Environments},
+@article{Zhu2026afastlilo
+  title={An Adaptive Tightly Integrated LiDAR-IMU-Leg Odometry System for SLAM in Underground Cable Tunnels},
   author={Hao Zhu, Yujian Qiu, Yuqiu Mu, Sin-Chi Kuok, Henry Leung},
   journal={Under review},
   year={2026}
